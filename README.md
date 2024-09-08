@@ -1,4 +1,4 @@
-<h3 align="center" >![Banner](https://i.pinimg.com/564x/cd/15/0f/cd150f5d6b185df4e2d7813347edd80c.jpg)
+<img src="https://i.pinimg.com/564x/cd/15/0f/cd150f5d6b185df4e2d7813347edd80c.jpg" alt="Banner" width="100%" height="auto"/>
 <h2 align="center">A passionate game developer from Malaysia 😊🇲🇾 </h3>
 
 - 🔭 I’m currently working on **Game Development**
