@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.pinimg.com/564x/cd/15/0f/cd150f5d6b185df4e2d7813347edd80c.jpg))]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h3 align="center">A passionate game developer from Malaysia 😊🇲🇾 </h3>
 
 - 🔭 I’m currently working on **Game Development**
