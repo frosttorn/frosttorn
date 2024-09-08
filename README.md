@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **frosttorn@gmail.com**
 
-- ⚡ Fun fact **I happen to hate my own mechanical engineering course so I'm doing this as an escapee**
+- ⚡ Fun fact **I happen to hate my own mechanical engineering course so I'm doing this as an escapee lmao**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
