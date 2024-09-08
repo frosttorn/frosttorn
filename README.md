@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/UH8KV4m.gif" alt="GIF Banner" width="100%" height="auto"/>
-<h2 align="center">A passionate game developer from Malaysia 😊🇲🇾 </h3>
+<h2 align="center">A passionate game developer from Malaysia 🇲🇾 </h3>
 
-- 🔭 I’m currently working on **Game Development**
+- 🔭 I’m currently working on **Game Development and Digital Arts**
 
 - 🌱 I’m currently learning **python, godot**
 
