@@ -1,9 +1,9 @@
 <img src="https://i.imgur.com/UH8KV4m.gif" alt="GIF Banner" width="100%" height="auto"/>
 <h2 align="center">A passionate game developer from Malaysia 🇲🇾 </h3>
 
-- 🔭 I’m currently working on **Game Development and Digital Arts**
+- 🔭 I’m currently working on **Game Development in Roblox**
 
-- 🌱 I’m currently learning **python, godot**
+- 🌱 I’m currently learning **python, godot, C++, Roblox Studios**
 
 - 🤝 I’m looking for help with **game development**
 
